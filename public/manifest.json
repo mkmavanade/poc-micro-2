@@ -1,0 +1,9 @@
+{
+  "name": "poc_micro",
+  "short_name": "pocmicro",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
